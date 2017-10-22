@@ -13,7 +13,7 @@ Deploy everything from the command line, its so easy.
 ## Install
 
 ```console
-$ npm install mycloudapp
+$ npm install -g mycloudapp
 ```
 
 
